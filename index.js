@@ -1,6 +1,7 @@
-let firstNumber = ~~prompt("Enter your first Number: ")
-let operator = prompt("Enter an operand: ")
+let firstNumber = ~~prompt("Let's run your basic arithmetic.\nEnter your first Number: ")
+let operator = prompt("Enter an operator: ")
 let secondNumber = ~~prompt("Enter your second Number: ")
+
 
 
 
